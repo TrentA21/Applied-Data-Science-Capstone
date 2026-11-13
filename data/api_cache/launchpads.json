@@ -1,0 +1,26 @@
+[
+ {
+  "id": "5e9e4501f509094ba4566f84",
+  "name": "CCAFS SLC 40",
+  "latitude": 28.5618571,
+  "longitude": -80.577366
+ },
+ {
+  "id": "5e9e4502f509092b78566f87",
+  "name": "VAFB SLC 4E",
+  "latitude": 34.632093,
+  "longitude": -120.610829
+ },
+ {
+  "id": "5e9e4502f509094188566f88",
+  "name": "KSC LC 39A",
+  "latitude": 28.6080585,
+  "longitude": -80.6039558
+ },
+ {
+  "id": "5e9e4502f5090995de566f86",
+  "name": "Kwajalein Atoll",
+  "latitude": 9.0477206,
+  "longitude": 167.7431292
+ }
+]
