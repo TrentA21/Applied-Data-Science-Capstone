@@ -1,0 +1,5 @@
+Model,"Best CV accuracy (train, 10-fold)",Test accuracy,Test F1,Test Jaccard
+Logistic Regression,0.8464,0.8333,0.8889,0.8
+SVM,0.8482,0.8333,0.8889,0.8
+Decision Tree,0.875,0.9444,0.96,0.9231
+KNN,0.8482,0.8333,0.8889,0.8
